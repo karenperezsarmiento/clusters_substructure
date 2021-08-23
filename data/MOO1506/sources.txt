@@ -1,0 +1,20 @@
+#sources for moo1506
+#cluster center from madcows
+15 06 20.35  +51 36 53.6 moo
+226.60314 51.625473 BCG
+#simbad results
+1	     46.33	NVSS_J150625+513650      	Rad	15 06 25.30 +51 36 49.0                	     ~	     ~	     ~	     ~	     ~	~              	   0	   0
+2	    103.01	2MASS_J15062491+5135198  	LM*	15 06 24.92 +51 35 19.8                	     ~	     ~	     ~	     ~	     ~	M3V            	   2	   0
+3	    251.57	SDSS_J150555.90+513840.7 	BiC	15 05 55.906 +51 38 40.77              	     ~	     ~	     ~	     ~	     ~	~              	   1	   0
+4	    314.15	SDSS_J150549.58+513902.6 	BiC	15 05 49.588 +51 39 02.68              	     ~	     ~	     ~	     ~	     ~	~              	   1	   0
+5	    332.29	SDSS_J150645.72+513300.3 	*  	15 06 45.7372041738 +51 33 00.306201599	     ~	     ~	     ~	     ~	     ~	~              	   1	   0
+6	    352.18	SDSS_J150544.70+513851.4 	BiC	15 05 44.705 +51 38 51.42              	     ~	     ~	     ~	     ~	     ~	~              	   1	   0
+#emily's sources:
+15 06 20.431 +51 36 52.87 Rad
+# Center of bent tail source at center of cluster -- upper part of source seen in GBT data
+15 06 21.829 +51 36 4415 Rad
+# Blob to left of central bent tail source -- not seen in GBT data?
+15 06 25.423 +51 36 50.03 Rad
+# Double lobe source on outer left of cluster -- seen in GBT data
+15 06 12.823 +51 37 07.18 Rad
+# Center of low-z double lobe radio source in rightm
